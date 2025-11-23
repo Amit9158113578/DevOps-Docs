@@ -15,7 +15,7 @@ If you find this content helpful:
 
 # Docker
 
-## **1. Introduction to Docker and Its Components**
+## **1. Introduction to Docker and it's Components**
 
 Docker is a platform designed to simplify and speed up application development and deployment using containers. Containers package an application with its dependencies and configurations, allowing it to run consistently across different environments.
 
